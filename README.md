@@ -11,9 +11,13 @@ View all transactions within a specified date range. The application provides a 
 The application can generate a line plot that visually represents income and expenses over time, helping users quickly grasp their financial trends.
 User-Friendly Interface: The command-line interface offers a simple and intuitive way to manage transactions, with options to add, view, and plot data.
 # How It Works:
-
 # Initialize: 
 The application checks for the existence of the CSV file and creates one if necessary.
-Add Transactions: Users can easily add new transactions through the interface, providing details such as date, amount, category, and description.
-View and Summarize: Users can filter transactions by date range to view detailed records and receive a summary of their financial activity.
-Visualize: Optionally, users can generate a plot to visualize their income and expenses over time.
+# Add Transactions: 
+Users can easily add new transactions through the interface, providing details such as date, amount, category, and description.
+# View and Summarize: 
+Users can filter transactions by date range to view detailed records and receive a summary of their financial activity.
+# Visualize: 
+Optionally, users can generate a plot to visualize their income and expenses over time.
+
+
